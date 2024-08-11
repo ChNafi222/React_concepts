@@ -55,6 +55,8 @@ const container = React.createElement(
 
 )
 
+console.log(container)
+
 
 // Wait until the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', () => {
