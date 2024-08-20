@@ -1,3 +1,5 @@
+  <!-- <script src="babel.js"></script>   will not load jsx component because of not babel not found-->
+
 Source Maps :- Source maps
 
 - help in debugging
